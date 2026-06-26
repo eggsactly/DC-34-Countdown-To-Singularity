@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "DCJ200")(type "KiCad")(uri "../libraries/footprints/DCJ200.pretty")(options "")(descr ""))
+)
