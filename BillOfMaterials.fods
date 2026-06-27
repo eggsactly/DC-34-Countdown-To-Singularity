@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2026-06-20T15:11:02.538644783</meta:creation-date><dc:date>2026-06-26T19:35:30.728612886</dc:date><meta:editing-duration>PT7H46M</meta:editing-duration><meta:editing-cycles>20</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="123" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2026-06-20T15:11:02.538644783</meta:creation-date><dc:date>2026-06-26T19:52:03.708224070</dc:date><meta:editing-duration>PT8H2M32S</meta:editing-duration><meta:editing-cycles>22</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="124" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">14510</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">15528</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">11289</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
@@ -14,7 +14,7 @@
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">24</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -192,6 +192,9 @@
   <style:style style:name="co2" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
   </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.2898in"/>
+  </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
@@ -242,7 +245,9 @@
    <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
    <table:table table:name="Sheet1" table:style-name="ta1">
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co2" table:number-columns-repeated="3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="ce1"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
@@ -253,7 +258,7 @@
       <text:p>Symbol</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Footprint</text:p>
+      <text:p>Notes</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>QTY</text:p>
@@ -594,23 +599,6 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>7 segment display</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>U5, U6</text:p>
-     </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=7.99*1/5" office:value-type="currency" office:currency="USD" office:value="1.598" calcext:value-type="currency">
-      <text:p>$1.60</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.amazon.com/uxcell-Common-Segment-Display-Digital/dp/B07GTRQYMV/ref=sr_1_10_sspa?crid=4NAL0LV9W0PX&amp;dib=eyJ2IjoiMSJ9.sJ4vZ-fRm6skVo9AlMS6sFmeQhSCNJgU4iHs_Ng_25OMl-GpMH60i0OrJqX9XP7Oiyr0XQJDg6FJT1rgluWGHrnGZpWRy6xxFFkzOkklooHfazh9ALOKmsx2zNxXJvmv_8nMpeFfy8Gg497A-0gbJB1nZtNVCG2Y1_Jw7pObRX_1G5oVwMNVGzSLIiDwKWgFGuUTJ8msJSgrnIq2VsvIXl27kO10MDbYQWre_tWm2LI.1boDFUgrhYQLg7Gh2yKqU1fQah9ke1yF89TkQ9W7HGs&amp;dib_tag=se&amp;keywords=7%2Bsegment%2Bdisplay&amp;qid=1782516534&amp;sprefix=7%2Bsegm%2Caps%2C301&amp;sr=8-10-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;th=1" xlink:type="simple">https://www.amazon.com/uxcell-Common-Segment-Display-Digital/dp/B07GTRQYMV/ref=sr_1_10_sspa?crid=4NAL0LV9W0PX&amp;dib=eyJ2IjoiMSJ9.sJ4vZ-fRm6skVo9AlMS6sFmeQhSCNJgU4iHs_Ng_25OMl-GpMH60i0OrJqX9XP7Oiyr0XQJDg6FJT1rgluWGHrnGZpWRy6xxFFkzOkklooHfazh9ALOKmsx2zNxXJvmv_8nMpeFfy8Gg497A-0gbJB1nZtNVCG2Y1_Jw7pObRX_1G5oVwMNVGzSLIiDwKWgFGuUTJ8msJSgrnIq2VsvIXl27kO10MDbYQWre_tWm2LI.1boDFUgrhYQLg7Gh2yKqU1fQah9ke1yF89TkQ9W7HGs&amp;dib_tag=se&amp;keywords=7%2Bsegment%2Bdisplay&amp;qid=1782516534&amp;sprefix=7%2Bsegm%2Caps%2C301&amp;sr=8-10-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;th=1</text:a></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>SAO Connector</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -658,6 +646,25 @@
       <text:p>$0.30</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.com/en/products/detail/e-switch/TL1105AF160Q/80826?gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=20504615652&amp;gbraid=0AAAAADrbLliuJu1uVwhOZx8oNThZmoftP&amp;gclid=Cj0KCQjwxvjRBhC2ARIsAI7KJa17DjaeKU3qO8WLGJrtWiDEGZ3HZdtEaDUREVu5W3xdJPioqquFpEcaAitnEALw_wcB" xlink:type="simple">https://www.digikey.com/en/products/detail/e-switch/TL1105AF160Q/80826?gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=20504615652&amp;gbraid=0AAAAADrbLliuJu1uVwhOZx8oNThZmoftP&amp;gclid=Cj0KCQjwxvjRBhC2ARIsAI7KJa17DjaeKU3qO8WLGJrtWiDEGZ3HZdtEaDUREVu5W3xdJPioqquFpEcaAitnEALw_wcB</text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>7 segment display</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>U5, U6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Note: 5 in package</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=7.99*1/5" office:value-type="currency" office:currency="USD" office:value="1.598" calcext:value-type="currency">
+      <text:p>$1.60</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.amazon.com/uxcell-Common-Segment-Display-Digital/dp/B07GTRQYMV/ref=sr_1_10_sspa?crid=4NAL0LV9W0PX&amp;dib=eyJ2IjoiMSJ9.sJ4vZ-fRm6skVo9AlMS6sFmeQhSCNJgU4iHs_Ng_25OMl-GpMH60i0OrJqX9XP7Oiyr0XQJDg6FJT1rgluWGHrnGZpWRy6xxFFkzOkklooHfazh9ALOKmsx2zNxXJvmv_8nMpeFfy8Gg497A-0gbJB1nZtNVCG2Y1_Jw7pObRX_1G5oVwMNVGzSLIiDwKWgFGuUTJ8msJSgrnIq2VsvIXl27kO10MDbYQWre_tWm2LI.1boDFUgrhYQLg7Gh2yKqU1fQah9ke1yF89TkQ9W7HGs&amp;dib_tag=se&amp;keywords=7%2Bsegment%2Bdisplay&amp;qid=1782516534&amp;sprefix=7%2Bsegm%2Caps%2C301&amp;sr=8-10-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;th=1" xlink:type="simple">https://www.amazon.com/uxcell-Common-Segment-Display-Digital/dp/B07GTRQYMV/ref=sr_1_10_sspa?crid=4NAL0LV9W0PX&amp;dib=eyJ2IjoiMSJ9.sJ4vZ-fRm6skVo9AlMS6sFmeQhSCNJgU4iHs_Ng_25OMl-GpMH60i0OrJqX9XP7Oiyr0XQJDg6FJT1rgluWGHrnGZpWRy6xxFFkzOkklooHfazh9ALOKmsx2zNxXJvmv_8nMpeFfy8Gg497A-0gbJB1nZtNVCG2Y1_Jw7pObRX_1G5oVwMNVGzSLIiDwKWgFGuUTJ8msJSgrnIq2VsvIXl27kO10MDbYQWre_tWm2LI.1boDFUgrhYQLg7Gh2yKqU1fQah9ke1yF89TkQ9W7HGs&amp;dib_tag=se&amp;keywords=7%2Bsegment%2Bdisplay&amp;qid=1782516534&amp;sprefix=7%2Bsegm%2Caps%2C301&amp;sr=8-10-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;th=1</text:a></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
