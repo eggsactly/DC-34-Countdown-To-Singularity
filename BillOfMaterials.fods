@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2026-06-20T15:11:02.538644783</meta:creation-date><dc:date>2026-06-25T21:45:44.225432564</dc:date><meta:editing-duration>PT2H14M</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="60" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2026-06-20T15:11:02.538644783</meta:creation-date><dc:date>2026-06-26T18:04:49.657214764</dc:date><meta:editing-duration>PT6H15M20S</meta:editing-duration><meta:editing-cycles>16</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="118" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">14510</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">6773</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">10837</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
        <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">15</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">24</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -63,6 +63,15 @@
    <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
    <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
@@ -76,7 +85,7 @@
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">OfficeJet-5200-series</config:config-item>
    <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ngH+/09mZmljZUpldC01MjAwLXNlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpPZmZpY2VKZXQtNTIwMC1zZXJpZXMAAAAAAAAWAAMAvwAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9T2ZmaWNlSmV0LTUyMDAtc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ugH+/09mZmljZUpldC01MjAwLXNlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpPZmZpY2VKZXQtNTIwMC1zZXJpZXMAAAAAAAAWAAMA2wAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9T2ZmaWNlSmV0LTUyMDAtc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUASW5wdXRTbG90OlVwcGVyAFBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZg==</config:config-item>
    <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
    <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
@@ -260,7 +269,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>PCF8523T</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>U4</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -293,7 +305,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>1N4007</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>D1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -307,9 +322,12 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>100uF Cap</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C1, C2</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.23" calcext:value-type="currency">
       <text:p>$0.23</text:p>
@@ -321,9 +339,12 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>100nF Cap</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C5-C11</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="7" calcext:value-type="float">
+      <text:p>7</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.8" calcext:value-type="currency">
       <text:p>$0.80</text:p>
@@ -333,9 +354,29 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>10uf Cap</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C3, C4</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.1" calcext:value-type="currency">
+      <text:p>$0.10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.com/en/products/detail/würth-elektronik/860020572003/5727172" xlink:type="simple">https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/860020572003/5727172</text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>22pf Cap</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C12, C13</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
@@ -349,7 +390,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>LM317</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>U2</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -380,7 +424,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>240 Ohm</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>R1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.1" calcext:value-type="currency">
       <text:p>$0.10</text:p>
      </table:table-cell>
@@ -391,7 +441,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>330 Ohm</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>R2-R9</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.1" calcext:value-type="currency">
       <text:p>$0.10</text:p>
      </table:table-cell>
@@ -403,7 +459,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>390 Ohm</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>R10</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.1" calcext:value-type="currency">
       <text:p>$0.10</text:p>
      </table:table-cell>
@@ -412,9 +474,32 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1k Ohm</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>R11</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.1" calcext:value-type="currency">
+      <text:p>$0.10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265" xlink:type="simple">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265</text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>10k Ohm</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>R12-R16</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.1" calcext:value-type="currency">
       <text:p>$0.10</text:p>
      </table:table-cell>
@@ -425,7 +510,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ATMEGA328P-PU</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>U3</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -439,7 +527,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>DCJ200-10-A-K1-K</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>J1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
@@ -448,6 +539,118 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.com/en/products/detail/gct/DCJ200-10-A-K1-K/9859579" xlink:type="simple">https://www.digikey.com/en/products/detail/gct/DCJ200-10-A-K1-K/9859579</text:a></text:p>
      </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>151031SS06000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>D2, D3</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.17" calcext:value-type="currency">
+      <text:p>$0.17</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.com/en/products/detail/würth-elektronik/151031SS06000/4489982" xlink:type="simple">https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/151031SS06000/4489982</text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>G43270009</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>X1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.49" calcext:value-type="currency">
+      <text:p>$0.49</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.com/en/products/detail/diodes-incorporated/G43270009/9768315" xlink:type="simple">https://www.digikey.com/en/products/detail/diodes-incorporated/G43270009/9768315</text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>BAT-HLD-012-SMT</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>BT1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.34" calcext:value-type="currency">
+      <text:p>$0.34</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.com/en/products/detail/te-connectivity-linx/BAT-HLD-012-SMT/3044013" xlink:type="simple">https://www.digikey.com/en/products/detail/te-connectivity-linx/BAT-HLD-012-SMT/3044013</text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>7 segment display</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>U5, U6</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=7.99*1/5" office:value-type="currency" office:currency="USD" office:value="1.598" calcext:value-type="currency">
+      <text:p>$1.60</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.amazon.com/uxcell-Common-Segment-Display-Digital/dp/B07GTRQYMV/ref=sr_1_10_sspa?crid=4NAL0LV9W0PX&amp;dib=eyJ2IjoiMSJ9.sJ4vZ-fRm6skVo9AlMS6sFmeQhSCNJgU4iHs_Ng_25OMl-GpMH60i0OrJqX9XP7Oiyr0XQJDg6FJT1rgluWGHrnGZpWRy6xxFFkzOkklooHfazh9ALOKmsx2zNxXJvmv_8nMpeFfy8Gg497A-0gbJB1nZtNVCG2Y1_Jw7pObRX_1G5oVwMNVGzSLIiDwKWgFGuUTJ8msJSgrnIq2VsvIXl27kO10MDbYQWre_tWm2LI.1boDFUgrhYQLg7Gh2yKqU1fQah9ke1yF89TkQ9W7HGs&amp;dib_tag=se&amp;keywords=7%2Bsegment%2Bdisplay&amp;qid=1782516534&amp;sprefix=7%2Bsegm%2Caps%2C301&amp;sr=8-10-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;th=1" xlink:type="simple">https://www.amazon.com/uxcell-Common-Segment-Display-Digital/dp/B07GTRQYMV/ref=sr_1_10_sspa?crid=4NAL0LV9W0PX&amp;dib=eyJ2IjoiMSJ9.sJ4vZ-fRm6skVo9AlMS6sFmeQhSCNJgU4iHs_Ng_25OMl-GpMH60i0OrJqX9XP7Oiyr0XQJDg6FJT1rgluWGHrnGZpWRy6xxFFkzOkklooHfazh9ALOKmsx2zNxXJvmv_8nMpeFfy8Gg497A-0gbJB1nZtNVCG2Y1_Jw7pObRX_1G5oVwMNVGzSLIiDwKWgFGuUTJ8msJSgrnIq2VsvIXl27kO10MDbYQWre_tWm2LI.1boDFUgrhYQLg7Gh2yKqU1fQah9ke1yF89TkQ9W7HGs&amp;dib_tag=se&amp;keywords=7%2Bsegment%2Bdisplay&amp;qid=1782516534&amp;sprefix=7%2Bsegm%2Caps%2C301&amp;sr=8-10-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;th=1</text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>SAO Connector</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>J4-J10</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="7" calcext:value-type="float">
+      <text:p>7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.33" calcext:value-type="currency">
+      <text:p>$0.33</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SSK04-FPH-254-B3/28772217" xlink:type="simple">https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SSK04-FPH-254-B3/28772217</text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2x3 Pin</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>J3</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.24" calcext:value-type="currency">
+      <text:p>$0.24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.com/en/products/detail/harwin-inc/M20-9980346/3728085" xlink:type="simple">https://www.digikey.com/en/products/detail/harwin-inc/M20-9980346/3728085</text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Total:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:formula="of:=SUMPRODUCT([.D2:.D23];[.E2:.E23])" office:value-type="float" office:value="24.626" calcext:value-type="float">
+      <text:p>24.626</text:p>
+     </table:table-cell>
+     <table:table-cell/>
     </table:table-row>
    </table:table>
    <table:named-expressions/>

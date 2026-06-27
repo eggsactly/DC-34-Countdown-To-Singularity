@@ -3,3 +3,5 @@
 *.ods
 *.zip
 .~lock.*
+#auto_saved_files#
+
