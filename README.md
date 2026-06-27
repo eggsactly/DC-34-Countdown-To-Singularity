@@ -2,7 +2,7 @@
 This repo contains the KiCad 6 design files for the DC-34-Countdown-To-Singularity DEFCON badge, which allows users to display their estimate for when the AI singularity will occur. Buttons on the front will allow the user to shift their time estimate.
 
 ## Board Features
-- Eight 7-segment display
+- Eight 7-segment displays
 - Real-Time clock 
 
 ## Project Structure
@@ -17,9 +17,9 @@ The structure of this repo is organized as such:
 ## Running
 ### Board Design
 To view schematics, please run KiCad 6.0.11 or later. Change directory into 
-DC-34-Badge and run
+DC-34-Countdown-To-Singularity-Board and run
 ```
-$ kicad DC-34-Badge.kicad_pro &
+$ kicad DC-34-Countdown-To-Singularity-Board.kicad_pro &
 ```
 
 Please note: please run kicad from the same directory as the .kicad_pro file 
