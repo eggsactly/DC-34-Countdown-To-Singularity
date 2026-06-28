@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2026-06-20T15:11:02.538644783</meta:creation-date><dc:date>2026-06-26T20:56:10.722776304</dc:date><meta:editing-duration>PT9H6M36S</meta:editing-duration><meta:editing-cycles>28</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="156" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2026-06-20T15:11:02.538644783</meta:creation-date><dc:date>2026-06-28T09:45:55.894488144</dc:date><meta:editing-duration>PT10H47M11S</meta:editing-duration><meta:editing-cycles>36</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="165" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">16318</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">12192</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">17336</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">13541</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">18</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">29</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -85,7 +85,7 @@
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">OfficeJet-5200-series</config:config-item>
    <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ugH+/09mZmljZUpldC01MjAwLXNlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpPZmZpY2VKZXQtNTIwMC1zZXJpZXMAAAAAAAAWAAMA2wAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9T2ZmaWNlSmV0LTUyMDAtc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUASW5wdXRTbG90OlVwcGVyAFBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZg==</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ugH+/09mZmljZUpldC01MjAwLXNlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpPZmZpY2VKZXQtNTIwMC1zZXJpZXMAAAAAAAAWAAMA2wAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9T2ZmaWNlSmV0LTUyMDAtc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAElucHV0U2xvdDpVcHBlcgBEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZg==</config:config-item>
    <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
    <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
@@ -195,8 +195,14 @@
   <style:style style:name="co3" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.6008in"/>
   </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.2898in"/>
+  </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="0.1756in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
@@ -247,7 +253,7 @@
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="ce1"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
@@ -261,7 +267,7 @@
       <text:p>Notes</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>QTY</text:p>
+      <text:p>Quantity per Board</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
       <text:p>Price</text:p>
@@ -303,11 +309,11 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="currency" office:currency="USD" office:value="3.34" calcext:value-type="currency">
-      <text:p>$3.34</text:p>
+     <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.52" calcext:value-type="currency">
+      <text:p>$0.52</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.digikey.com/en/products/detail/dcomponents/AMSRI-7805-EZ/24611607</text:p>
+      <text:p>https://www.digikey.com/en/products/detail/onsemi/MC7805CTG/919333</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -507,13 +513,13 @@
       <text:p>1k Ohm</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>R11</text:p>
+      <text:p>R11-R13</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Resistor</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.1" calcext:value-type="currency">
       <text:p>$0.10</text:p>
@@ -526,13 +532,13 @@
       <text:p>10k Ohm</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>R12-R16</text:p>
+      <text:p>R14-R16</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Resistor</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="5" calcext:value-type="float">
-      <text:p>5</text:p>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.1" calcext:value-type="currency">
       <text:p>$0.10</text:p>
@@ -667,10 +673,10 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.24" calcext:value-type="currency">
-      <text:p>$0.24</text:p>
+     <table:table-cell office:value-type="currency" office:currency="USD" office:value="0.26" calcext:value-type="currency">
+      <text:p>$0.26</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.com/en/products/detail/harwin-inc/M20-9980346/3728085" xlink:type="simple">https://www.digikey.com/en/products/detail/harwin-inc/M20-9980346/3728085</text:a></text:p>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.com/en/products/detail/sullins-connector-solutions/SBH11-PBPC-D05-ST-BK/1990062" xlink:type="simple">https://www.digikey.com/en/products/detail/sullins-connector-solutions/SBH11-PBPC-D05-ST-BK/1990062</text:a></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -728,7 +734,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.amazon.com/dp/B0B4RSNDPG?ref_=apb_fb_ac_d_apb_fb_asin_batteries&amp;pd_rd_w=I5vqD&amp;content-id=amzn1.sym.23b3cfca-3737-4a86-96a3-75e538f8c833%3Aamzn1.sym.23b3cfca-3737-4a86-96a3-75e538f8c833&amp;pf_rd_p=23b3cfca-3737-4a86-96a3-75e538f8c833&amp;pf_rd_r=5NSY61YKBS0D4HM433D8&amp;pd_rd_wg=HZtc3&amp;pd_rd_r=1c934474-5af1-49cc-8264-793227ac73c1&amp;pd_rd_i=B0B4RSNDPG&amp;th=1" xlink:type="simple">https://www.amazon.com/dp/B0B4RSNDPG?ref_=apb_fb_ac_d_apb_fb_asin_batteries&amp;pd_rd_w=I5vqD&amp;content-id=amzn1.sym.23b3cfca-3737-4a86-96a3-75e538f8c833%3Aamzn1.sym.23b3cfca-3737-4a86-96a3-75e538f8c833&amp;pf_rd_p=23b3cfca-3737-4a86-96a3-75e538f8c833&amp;pf_rd_r=5NSY61YKBS0D4HM433D8&amp;pd_rd_wg=HZtc3&amp;pd_rd_r=1c934474-5af1-49cc-8264-793227ac73c1&amp;pd_rd_i=B0B4RSNDPG&amp;th=1</text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Battery to jack</text:p>
      </table:table-cell>
@@ -746,14 +752,51 @@
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>CR1220</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>10 pack</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:formula="of:=5.99/10" office:value-type="float" office:value="0.599" calcext:value-type="float">
+      <text:p>0.599</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.amazon.com/PKCELL-CR1220-Battery-Lithium-Count/dp/B0D8T4C5PK/ref=sr_1_8?dib=eyJ2IjoiMSJ9.b2h7Ukb4oRuYiL9U7ru5Wo9-0wfVO7UgOOn_coPC0U9V8YTR7MUMXNd32A-5_l7buGLQ3sSbNN0xohPsA0QmEJfPeDZqaHF661mXDAFpEcS6Gf7I5JO_TnCWD2073snm2inmQBZL8SfQ3yfQzqubGqbs8j3InbqdE_fyDQRM83qetkl1sFunl8Drxl17hKO1ZbDNGnV7hPf0UvgZGVUcUSJvzmpKrbHLaWMH4qfujoNJUUINCThk82FHMQA-zwGWA0QHTGWPSbwI4DUzyBCLSUIWZuZynAB-DwOjPcrV_dY.0RrEy335qbLLTP8G15gIUlc_W4f1ujaYf2qcIWrT5OY&amp;dib_tag=se&amp;keywords=CR1220&amp;qid=1782662524&amp;sr=8-8" xlink:type="simple">https://www.amazon.com/PKCELL-CR1220-Battery-Lithium-Count/dp/B0D8T4C5PK/ref=sr_1_8?dib=eyJ2IjoiMSJ9.b2h7Ukb4oRuYiL9U7ru5Wo9-0wfVO7UgOOn_coPC0U9V8YTR7MUMXNd32A-5_l7buGLQ3sSbNN0xohPsA0QmEJfPeDZqaHF661mXDAFpEcS6Gf7I5JO_TnCWD2073snm2inmQBZL8SfQ3yfQzqubGqbs8j3InbqdE_fyDQRM83qetkl1sFunl8Drxl17hKO1ZbDNGnV7hPf0UvgZGVUcUSJvzmpKrbHLaWMH4qfujoNJUUINCThk82FHMQA-zwGWA0QHTGWPSbwI4DUzyBCLSUIWZuZynAB-DwOjPcrV_dY.0RrEy335qbLLTP8G15gIUlc_W4f1ujaYf2qcIWrT5OY&amp;dib_tag=se&amp;keywords=CR1220&amp;qid=1782662524&amp;sr=8-8</text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Total:</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="Default" table:formula="of:=SUMPRODUCT([.D2:.D26];[.E2:.E26])" office:value-type="float" office:value="24.494" calcext:value-type="float">
-      <text:p>24.494</text:p>
+     <table:table-cell table:style-name="Default" table:formula="of:=SUMPRODUCT([.D2:.D27];[.E2:.E27])" office:value-type="float" office:value="22.293" calcext:value-type="float">
+      <text:p>22.293</text:p>
      </table:table-cell>
      <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>CP2102 USB 2.0 to TTL</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Programmer, only need one total</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="currency" office:currency="USD" office:value="7.39" calcext:value-type="currency">
+      <text:p>$7.39</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.amazon.com/HiLetgo-CP2102-Converter-Adapter-Downloader/dp/B00LODGRV8/ref=sr_1_4?crid=3N2AAJERECNDC&amp;dib=eyJ2IjoiMSJ9.hUJFlG217U_LnkM3KidzS3FKWJeWYSkHCn6SAL4KJ_Ib7o3mKI4v0jNeA5cj8NegSukIKK35IJS73ZcvJEuIzNtMOB0lmW4zz8h0wT2xd5O-wL5HZ1Jq-kccCZlravERYeTMUB0YvGwV5GUa5RD9rrCCEpf9qofrfsFlZo_cVybTZ4c7AimKXqeqjiBJgWlZmMxm8Yy98iMtsa1XLMk7ne8SLlJuDfjRXPhM1IbA0CQ.dZASXdFWQDhTLffimIKDTc4vLOa-gK8wn2EY_zrKvms&amp;dib_tag=se&amp;keywords=USB%2Bto%2BTTL&amp;qid=1782663949&amp;sprefix=usb%2Bto%2Bttl%2Caps%2C235&amp;sr=8-4&amp;th=1" xlink:type="simple">https://www.amazon.com/HiLetgo-CP2102-Converter-Adapter-Downloader/dp/B00LODGRV8/ref=sr_1_4?crid=3N2AAJERECNDC&amp;dib=eyJ2IjoiMSJ9.hUJFlG217U_LnkM3KidzS3FKWJeWYSkHCn6SAL4KJ_Ib7o3mKI4v0jNeA5cj8NegSukIKK35IJS73ZcvJEuIzNtMOB0lmW4zz8h0wT2xd5O-wL5HZ1Jq-kccCZlravERYeTMUB0YvGwV5GUa5RD9rrCCEpf9qofrfsFlZo_cVybTZ4c7AimKXqeqjiBJgWlZmMxm8Yy98iMtsa1XLMk7ne8SLlJuDfjRXPhM1IbA0CQ.dZASXdFWQDhTLffimIKDTc4vLOa-gK8wn2EY_zrKvms&amp;dib_tag=se&amp;keywords=USB%2Bto%2BTTL&amp;qid=1782663949&amp;sprefix=usb%2Bto%2Bttl%2Caps%2C235&amp;sr=8-4&amp;th=1</text:a></text:p>
+     </table:table-cell>
     </table:table-row>
    </table:table>
    <table:named-expressions/>
