@@ -10,7 +10,7 @@ The structure of this repo is organized as such:
 
 | Directory                | About                                                                    |
 |:-------------------------|:-------------------------------------------------------------------------|
-| BillOfMaterials.fods     | Bill of Materials                                                        |
+| BillOfMaterials.fods     | Bill of Materials, libreoffice flat XML ODS spreadsheet                  |
 | DC-34-Countdown-To-Singularity-Board | KiCad 6 Design files                                                     |
 | libraries                | Symbol libraries and footprints downloaded from digikey                  |
 
