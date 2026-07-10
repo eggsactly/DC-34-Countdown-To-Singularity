@@ -26,6 +26,13 @@ Please note: please run kicad from the same directory as the .kicad_pro file
 is stored because the fp-lib-table and sym-lib-table use relative paths 
 so that this project is portable between computers.
 
+### Firmware
+To view and edit the embedded software for the board, change directory into 
+DC-34-Countdown-To-Singularity-Firmware and run
+```
+$ arduino-1.8.5 DC-34-Countdown-To-Singularity-Firmware.ino & 
+```
+
 # Bill of Materials (BOM)
 |Part|Symbol|Notes|Quantity per Board|Price|Link|
 |:---|:-----|:----|:-----------------|:----|:---|
@@ -56,8 +63,5 @@ so that this project is portable between computers.
 |Battery to jack||5 per pack|1|1.198|[link](https://www.amazon.com/dp/B0D9VTG5V4/ref=twister_B0D9VW8HHC?_encoding=UTF8&th=1)|
 |CR1220||10 pack|1|0.599|[link](https://www.amazon.com/PKCELL-CR1220-Battery-Lithium-Count/dp/B0D8T4C5PK/ref=sr_1_8?dib=eyJ2IjoiMSJ9.b2h7Ukb4oRuYiL9U7ru5Wo9-0wfVO7UgOOn_coPC0U9V8YTR7MUMXNd32A-5_l7buGLQ3sSbNN0xohPsA0QmEJfPeDZqaHF661mXDAFpEcS6Gf7I5JO_TnCWD2073snm2inmQBZL8SfQ3yfQzqubGqbs8j3InbqdE_fyDQRM83qetkl1sFunl8Drxl17hKO1ZbDNGnV7hPf0UvgZGVUcUSJvzmpKrbHLaWMH4qfujoNJUUINCThk82FHMQA-zwGWA0QHTGWPSbwI4DUzyBCLSUIWZuZynAB-DwOjPcrV_dY.0RrEy335qbLLTP8G15gIUlc_W4f1ujaYf2qcIWrT5OY&dib_tag=se&keywords=CR1220&qid=1782662524&sr=8-8)|
 ||||Total:|$22.293||
-|CP2102 USB 2.0 to TTL||Programmer only need one total||$7.39|[link](https://www.amazon.com/HiLetgo-CP2102-Converter-Adapter-Downloader/dp/B00LODGRV8/ref=sr_1_4?crid=3N2AAJERECNDC&dib=eyJ2IjoiMSJ9.hUJFlG217U_LnkM3KidzS3FKWJeWYSkHCn6SAL4KJ_Ib7o3mKI4v0jNeA5cj8NegSukIKK35IJS73ZcvJEuIzNtMOB0lmW4zz8h0wT2xd5O-wL5HZ1Jq-kccCZlravERYeTMUB0YvGwV5GUa5RD9rrCCEpf9qofrfsFlZo_cVybTZ4c7AimKXqeqjiBJgWlZmMxm8Yy98iMtsa1XLMk7ne8SLlJuDfjRXPhM1IbA0CQ.dZASXdFWQDhTLffimIKDTc4vLOa-gK8wn2EY_zrKvms&dib_tag=se&keywords=USB%2Bto%2BTTL&qid=1782663949&sprefix=usb%2Bto%2Bttl%2Caps%2C235&sr=8-4&th=1)|
+|CP2102 USB 2.0 to TTL||Programmer, only need one total||$7.39|[link](https://www.amazon.com/HiLetgo-CP2102-Converter-Adapter-Downloader/dp/B00LODGRV8/ref=sr_1_4?crid=3N2AAJERECNDC&dib=eyJ2IjoiMSJ9.hUJFlG217U_LnkM3KidzS3FKWJeWYSkHCn6SAL4KJ_Ib7o3mKI4v0jNeA5cj8NegSukIKK35IJS73ZcvJEuIzNtMOB0lmW4zz8h0wT2xd5O-wL5HZ1Jq-kccCZlravERYeTMUB0YvGwV5GUa5RD9rrCCEpf9qofrfsFlZo_cVybTZ4c7AimKXqeqjiBJgWlZmMxm8Yy98iMtsa1XLMk7ne8SLlJuDfjRXPhM1IbA0CQ.dZASXdFWQDhTLffimIKDTc4vLOa-gK8wn2EY_zrKvms&dib_tag=se&keywords=USB%2Bto%2BTTL&qid=1782663949&sprefix=usb%2Bto%2Bttl%2Caps%2C235&sr=8-4&th=1)|
 
-# Links
-May make use of this code for the segment 
-https://github.com/untr0py/SevSeg
