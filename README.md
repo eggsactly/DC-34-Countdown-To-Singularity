@@ -44,7 +44,7 @@ $ arduino-1.8.5 DC-34-Countdown-To-Singularity-Firmware.ino &
 |10uF|C3, C4|Capacitor|2|$0.10|[link](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/860020572003/5727172)|
 |22pF|C12, C13|Capacitor|2|$0.23|[link](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/K220J10C0GF5UH5/2821614)|
 |LM317|U2|3.3v Regulator|1|$0.49|[link](https://www.digikey.com/en/products/detail/lumimax-optoelectronic-technology/LM317/29366241)|
-|Oscillator|Y1|Arduino Crystal|1|$0.49|[link](https://www.digikey.com/en/products/detail/citizen-finedevice-co-ltd/HC-49-U-S16000000ABJB/284222)|
+|HC-49/U-S16000000ABJB|Y1|Arduino Crystal|1|$0.49|[link](https://www.digikey.com/en/products/detail/citizen-finedevice-co-ltd/HC-49-U-S16000000ABJB/284222)|
 |240 Ohm|R1|Resistor|1|$0.10|[link](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT240R/1741355)|
 |330 Ohm|R2-R9|Resistor|8|$0.10|[link](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT330R/1741399)|
 |390 Ohm|R10|Resistor|1|$0.10|[link](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT390R/1741412)|
