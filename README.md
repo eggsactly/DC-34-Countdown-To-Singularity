@@ -54,7 +54,7 @@ $ arduino-1.8.5 DC-34-Countdown-To-Singularity-Firmware.ino &
 |DCJ200-10-A-K1-K|J1|9v Jack Connector|1|$0.74|[link](https://www.digikey.com/en/products/detail/gct/DCJ200-10-A-K1-K/9859579)|
 |151031SS06000|D2, D3|Red LEDs|2|$0.17|[link](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/151031SS06000/4489982)|
 |G43270009|Y2|Real-time Clock Crystal|1|$0.49|[link](https://www.digikey.com/en/products/detail/diodes-incorporated/G43270009/9768315)|
-|BAT-HLD-012-SMT-TR|BT1|Real-time Clock Battery|1|$0.55|[link](https://www.digikey.com/en/products/detail/te-connectivity-linx/BAT-HLD-012-SMT-TR/5361776|
+|BAT-HLD-012-SMT-TR|BT1|Real-time Clock Battery|1|$0.55|[link](https://www.digikey.com/en/products/detail/te-connectivity-linx/BAT-HLD-012-SMT-TR/5361776)|
 |SSK04-FPH-254-B3|J4-J10|SAO Connector|7|$0.33|[link](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SSK04-FPH-254-B3/28772217)|
 |M20-9980346|J3|ISP Port|1|$0.26|[link](https://www.digikey.com/en/products/detail/sullins-connector-solutions/SBH11-PBPC-D05-ST-BK/1990062)|
 |TL1105AF160Q|SW1-SW3|Push Button|3|$0.30|[link](https://www.digikey.com/en/products/detail/e-switch/TL1105AF160Q/80826?gclsrc=aw.ds&gad_source=1&gad_campaignid=20504615652&gbraid=0AAAAADrbLliuJu1uVwhOZx8oNThZmoftP&gclid=Cj0KCQjwxvjRBhC2ARIsAI7KJa17DjaeKU3qO8WLGJrtWiDEGZ3HZdtEaDUREVu5W3xdJPioqquFpEcaAitnEALw_wcB)|
