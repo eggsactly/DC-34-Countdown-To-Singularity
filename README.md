@@ -33,6 +33,24 @@ DC-34-Countdown-To-Singularity-Firmware and run
 $ arduino-1.8.5 DC-34-Countdown-To-Singularity-Firmware.ino & 
 ```
 
+#### Programming the Bootloader
+This design is meant to use stock AVR chips bought off the shelf. The bootloader
+needs to be loaded, one time, with [a special programmer](https://www.amazon.com/dp/B00AX4WQ00?ref=ppx_yo2ov_dt_b_fed_asin_title). 
+
+When using the programmer, first program the fuses to match the Arduino fuses. 
+
+```
+avrdude -c usbasp -p m328p -U lfuse:w:0xFF:m -U hfuse:w:0xDE:m -U efuse:w:0xFD:m -B 100
+```
+
+Then you can open the Arduino IDE and flash the bootloader with the following commands
+
+Tools > Programmer > USBasp
+Tools > Burn Bootloader 
+
+Then you can program the chip like a normal arduino with an FTDI cable. 
+
+
 # Bill of Materials (BOM)
 |Part|Symbol|Notes|Quantity per Board|Price|Link|
 |:---|:-----|:----|:-----------------|:----|:---|
